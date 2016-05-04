@@ -1,9 +1,4 @@
 <?php
-    /**
-    
-    NEED TO GO BACK AND DO GET/SETS FOR ALL INFO
-    
-    */
 
     session_start();
 
