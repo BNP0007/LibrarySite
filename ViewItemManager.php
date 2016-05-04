@@ -54,7 +54,7 @@
                 echo "<tr>";
             }
             $viewItems = new ViewItemController();
-            $viewItems->display();
+            $viewItems->displayItem();
 
         ?>	
     </body>
